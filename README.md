@@ -13,7 +13,8 @@ A simple and interactive quiz application built using **HTML, CSS, and JavaScrip
 
 ## 📸 Screenshots
 
-![Quiz App Screenshot](https://via.placeholder.com/600x300)  
+
+![app](https://github.com/user-attachments/assets/86c6a5a7-ad66-4f95-ad41-11014a44e7c3)
 
 
 ## 🛠️ Technologies Used
